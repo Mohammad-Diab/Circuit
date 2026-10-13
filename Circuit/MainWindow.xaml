@@ -109,6 +109,6 @@
         </StackPanel>
         <Rectangle x:Name="rec" Fill="Red" HorizontalAlignment="Left" Height="4" Margin="0,41,0,0" VerticalAlignment="Top" Width="93"/>
         <TextBlock HorizontalAlignment="Right" TextWrapping="Wrap" Text="by: Dr.Mohammad" VerticalAlignment="Top" Foreground="#FF0D0D0D"/>
-        <TextBlock HorizontalAlignment="Right" TextWrapping="Wrap" Text="Dr.Mohammad@outlook.com" VerticalAlignment="Top" Foreground="#FF0D0D0D" Margin="0,19,0,0"/>
+        <TextBlock HorizontalAlignment="Right" TextWrapping="Wrap" Text="mohammad.diab93@outlook.com" VerticalAlignment="Top" Foreground="#FF0D0D0D" Margin="0,19,0,0"/>
     </Grid>
 </Window>
